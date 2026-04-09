@@ -56,5 +56,4 @@ The data is pulled from various websites that host CFTC's data suite, using a se
 ![Image Alt](https://github.com/yuktamyadav/Excel-COT-Financial-Data-Analysis-Dashboard/blob/91f16848d36dd18ad5dd40db505e0f1bf6b701f8/COT%20Analysis%20Project%20-%202.png)
 ![Image Alt](https://github.com/yuktamyadav/Excel-COT-Financial-Data-Analysis-Dashboard/blob/91f16848d36dd18ad5dd40db505e0f1bf6b701f8/COT%20Analysis%20Project%20-%203.png)
 ![Image Alt](https://github.com/yuktamyadav/Excel-COT-Financial-Data-Analysis-Dashboard/blob/91f16848d36dd18ad5dd40db505e0f1bf6b701f8/COT%20Analysis%20Project%20-%204.png)
-![Image Alt](https://github.com/yuktamyadav/Excel-COT-Financial-Data-Analysis-Dashboard/blob/91f16848d36dd18ad5dd40db505e0f1bf6b701f8/COT%20Analysis%20Project%20-%205.png)
 ![Image Alt](https://github.com/yuktamyadav/Excel-COT-Financial-Data-Analysis-Dashboard/blob/91f16848d36dd18ad5dd40db505e0f1bf6b701f8/COT%20Analysis%20Project%20-%206.png)
